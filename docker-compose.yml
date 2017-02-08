@@ -1,3 +1,8 @@
+# Outpost 0.1.0
+# Site: http://outpost.rocks
+# Contribute: https://github.com/nickcernis/outpost-docker
+# Maintainer: Nick Cernis <nick@cern.is>
+
 version: '2'
 
 services:
